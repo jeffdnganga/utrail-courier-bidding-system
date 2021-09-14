@@ -23,7 +23,7 @@
           </li>
         </ul>
           <a class="btn client-login-btn mx-lg-4" href="client_login.php">Client login</a>
-          <a class="btn transporter-login-btn me-2" href="#">Transporter login</a>
+          <a class="btn transporter-login-btn me-2" href="transporter_login.php">Transporter login</a>
     </div>
   </nav>
 </section>
