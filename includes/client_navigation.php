@@ -131,8 +131,8 @@
             More <i class="fas fa-angle-down ms-1"></i>
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">My Deliveries</a></li>
-            <li><a class="dropdown-item" href="#">Past Deliveries</a></li>
+            <li><a class="dropdown-item" href="my_deliveries.php">My Deliveries</a></li>
+            <li><a class="dropdown-item" href="past_deliveries.php">Past Deliveries</a></li>
             <li><a class="dropdown-item" href="#">Edit my Profile</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="index.php">Log out</a></li>
