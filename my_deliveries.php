@@ -29,7 +29,7 @@ include('includes/client_navigation.php');
                             <p>Dimensions: 50x50x50cm<br>Weight: 2Kg<br>Route: Nairobi to Nakuru</p>
                         </div>
                         <div class="col-sm-12 col-md-4 pt-md-4 pt-sm-2 text-center">
-                            <a class="btn" href="">View bids</a>
+                            <a class="btn" href="bids.php">View bids</a>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ include('includes/client_navigation.php');
                             <p>Dimensions: 50x50x50cm<br>Weight: 2Kg<br>Route: Nairobi to Nakuru</p>
                         </div>
                         <div class="col-sm-12 col-md-4 pt-md-4 pt-sm-2 text-center">
-                            <a class="btn" href="">View bids</a>
+                            <a class="btn" href="bids.php">View bids</a>
                         </div>
                     </div>
                 </div>
